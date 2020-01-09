@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://progforone.netlify.com/archives/2020/01/</loc>
+    <lastmod>2020-01-05T13:44:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://progforone.netlify.com/archives/</loc>
+    <lastmod>2020-01-05T13:44:06+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://progforone.netlify.com/categories/</loc>
     <lastmod>2020-01-05T13:44:06+09:00</lastmod>
   </url>

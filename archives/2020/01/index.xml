@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020/01 on ProgForOne</title>
+    <link>https://progforone.netlify.com/archives/2020/01/</link>
+    <description>Recent content in 2020/01 on ProgForOne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 05 Jan 2020 13:44:06 +0900</lastBuildDate>
+    
+	<atom:link href="https://progforone.netlify.com/archives/2020/01/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>デザインあれこれ</title>
+      <link>https://progforone.netlify.com/post/2020/01/05/css/</link>
+      <pubDate>Sun, 05 Jan 2020 13:44:06 +0900</pubDate>
+      
+      <guid>https://progforone.netlify.com/post/2020/01/05/css/</guid>
+      <description> ★文章を入れる★
+   aaa bbb ccc ddd  更新履歴 2020.01.05 新規作成 </description>
+    </item>
+    
+    <item>
+      <title>Excel</title>
+      <link>https://progforone.netlify.com/post/2020/01/04/excel/</link>
+      <pubDate>Sat, 04 Jan 2020 13:50:37 +0900</pubDate>
+      
+      <guid>https://progforone.netlify.com/post/2020/01/04/excel/</guid>
+      <description> ★文章を入れる★
+   aaa bbb ccc ddd  更新履歴 2020.01.04 新規作成 </description>
+    </item>
+    
+    <item>
+      <title>Excel VBAで最終行、最終列を取得する。</title>
+      <link>https://progforone.netlify.com/post/2020/01/03/vba/</link>
+      <pubDate>Fri, 03 Jan 2020 18:07:04 +0900</pubDate>
+      
+      <guid>https://progforone.netlify.com/post/2020/01/03/vba/</guid>
+      <description> ★文章を入れる★
+   aaa bbb ccc ddd  aaaaaaa
+ 更新履歴 2020.01.03 新規作成 </description>
+    </item>
+    
+  </channel>
+</rss>
