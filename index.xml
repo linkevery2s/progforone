@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ProgForOne</title>
-    <link>https://linkevery2s.github.io/blog/</link>
+    <link>https://progforone.netlify.com/</link>
     <description>Recent content on ProgForOne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 05 Jan 2020 13:44:06 +0900</lastBuildDate>
     
-	<atom:link href="https://linkevery2s.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://progforone.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>デザインあれこれ</title>
-      <link>https://linkevery2s.github.io/blog/post/2020/01/05/css/</link>
+      <link>https://progforone.netlify.com/post/2020/01/05/css/</link>
       <pubDate>Sun, 05 Jan 2020 13:44:06 +0900</pubDate>
       
-      <guid>https://linkevery2s.github.io/blog/post/2020/01/05/css/</guid>
+      <guid>https://progforone.netlify.com/post/2020/01/05/css/</guid>
       <description> ★文章を入れる★
    aaa bbb ccc ddd  更新履歴 2020.01.05 新規作成 </description>
     </item>
     
     <item>
       <title>References</title>
-      <link>https://linkevery2s.github.io/blog/references/</link>
+      <link>https://progforone.netlify.com/references/</link>
       <pubDate>Sun, 05 Jan 2020 13:20:31 +0900</pubDate>
       
-      <guid>https://linkevery2s.github.io/blog/references/</guid>
+      <guid>https://progforone.netlify.com/references/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://linkevery2s.github.io/blog/search/</link>
+      <link>https://progforone.netlify.com/search/</link>
       <pubDate>Sun, 05 Jan 2020 13:20:31 +0900</pubDate>
       
-      <guid>https://linkevery2s.github.io/blog/search/</guid>
+      <guid>https://progforone.netlify.com/search/</guid>
       <description>キーワードを入力するとリアルタイムで検索することができます。
    </description>
     </item>
     
     <item>
       <title>Excel</title>
-      <link>https://linkevery2s.github.io/blog/post/2020/01/04/excel/</link>
+      <link>https://progforone.netlify.com/post/2020/01/04/excel/</link>
       <pubDate>Sat, 04 Jan 2020 13:50:37 +0900</pubDate>
       
-      <guid>https://linkevery2s.github.io/blog/post/2020/01/04/excel/</guid>
+      <guid>https://progforone.netlify.com/post/2020/01/04/excel/</guid>
       <description> ★文章を入れる★
    aaa bbb ccc ddd  更新履歴 2020.01.04 新規作成 </description>
     </item>
     
     <item>
       <title>Excel VBAで最終行、最終列を取得する。</title>
-      <link>https://linkevery2s.github.io/blog/post/2020/01/03/vba/</link>
+      <link>https://progforone.netlify.com/post/2020/01/03/vba/</link>
       <pubDate>Fri, 03 Jan 2020 18:07:04 +0900</pubDate>
       
-      <guid>https://linkevery2s.github.io/blog/post/2020/01/03/vba/</guid>
+      <guid>https://progforone.netlify.com/post/2020/01/03/vba/</guid>
       <description> ★文章を入れる★
    aaa bbb ccc ddd  aaaaaaa
  更新履歴 2020.01.03 新規作成 </description>
@@ -63,10 +63,10 @@
     
     <item>
       <title>Rule</title>
-      <link>https://linkevery2s.github.io/blog/rule/</link>
+      <link>https://progforone.netlify.com/rule/</link>
       <pubDate>Fri, 03 Jan 2020 18:00:36 +0900</pubDate>
       
-      <guid>https://linkevery2s.github.io/blog/rule/</guid>
+      <guid>https://progforone.netlify.com/rule/</guid>
       <description>この利用規約（以下，「本規約」といいます。）は，利用者の皆様が本ブログを利用する上での利用条件を定めるものです。利用者の皆様には，本規約に従って，本ブログをご利用いただきます。
 第１条（適用） 本規約は，本ブログを利用する全ての利用者の皆様に適用されるものとします。本ブログを利用する全ての利用者の皆様は、この規約に同意されたものとみなします。
 第２条（本ブログの利用について） （1）利用料金 利用者の皆様は、本ブログを無料で利用できます。ただし、インターネットを利用しているので、インターネット通信料は利用者の皆様のご負担となります。
@@ -95,19 +95,19 @@
     
     <item>
       <title>Profile</title>
-      <link>https://linkevery2s.github.io/blog/profile/</link>
+      <link>https://progforone.netlify.com/profile/</link>
       <pubDate>Fri, 03 Jan 2020 18:00:31 +0900</pubDate>
       
-      <guid>https://linkevery2s.github.io/blog/profile/</guid>
+      <guid>https://progforone.netlify.com/profile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://linkevery2s.github.io/blog/about/</link>
+      <link>https://progforone.netlify.com/about/</link>
       <pubDate>Fri, 03 Jan 2020 18:00:24 +0900</pubDate>
       
-      <guid>https://linkevery2s.github.io/blog/about/</guid>
+      <guid>https://progforone.netlify.com/about/</guid>
       <description></description>
     </item>
     

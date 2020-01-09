@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VBA on ProgForOne</title>
-    <link>https://linkevery2s.github.io/blog/categories/vba/</link>
+    <link>https://progforone.netlify.com/categories/vba/</link>
     <description>Recent content in VBA on ProgForOne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 03 Jan 2020 18:07:04 +0900</lastBuildDate>
     
-	<atom:link href="https://linkevery2s.github.io/blog/categories/vba/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://progforone.netlify.com/categories/vba/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Excel VBAで最終行、最終列を取得する。</title>
-      <link>https://linkevery2s.github.io/blog/post/2020/01/03/vba/</link>
+      <link>https://progforone.netlify.com/post/2020/01/03/vba/</link>
       <pubDate>Fri, 03 Jan 2020 18:07:04 +0900</pubDate>
       
-      <guid>https://linkevery2s.github.io/blog/post/2020/01/03/vba/</guid>
+      <guid>https://progforone.netlify.com/post/2020/01/03/vba/</guid>
       <description> ★文章を入れる★
    aaa bbb ccc ddd  aaaaaaa
  更新履歴 2020.01.03 新規作成 </description>
