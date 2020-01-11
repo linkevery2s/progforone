@@ -147,13 +147,3 @@ hr {
   margin: auto;
 }
 
-/* Facebook調整 */
-.fb_iframe_widget > span {
-		vertical-align: baseline !important;
-}
-
-#sns_settei{
-	padding-right: 5px;
-}
-
-.mlc{cursor: pointer;}
