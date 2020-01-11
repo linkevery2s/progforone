@@ -58,8 +58,8 @@ ul.m li:after {
 .balloon .faceicon img{
   width: 100%;
   height: auto;
-  border: solid 3px #d7ebfe;
-  border-radius: 50%;
+  /*border: solid 3px #d7ebfe;
+  border-radius: 50%;*/
 }
 
 .balloon .chatting {
@@ -72,8 +72,8 @@ ul.m li:after {
   margin: 5px 0 0 105px;
   padding: 17px 13px;
   border-radius: 12px;
+  background-color: #D1F8C2;
 
-  border: 3px solid #d7ebfe;
 }
 
 .says:after {
@@ -146,3 +146,14 @@ hr {
   left: 0;
   margin: auto;
 }
+
+/* Facebook調整 */
+.fb_iframe_widget > span {
+		vertical-align: baseline !important;
+}
+
+#sns_settei{
+	padding-right: 5px;
+}
+
+.mlc{cursor: pointer;}
