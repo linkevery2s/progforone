@@ -17,8 +17,7 @@
       <pubDate>Sun, 05 Jan 2020 13:44:06 +0900</pubDate>
       
       <guid>https://progforone.netlify.com/post/2020/01/05/css/</guid>
-      <description> ★文章を入れる★
-   aaa bbb ccc ddd  更新履歴 2020.01.05 新規作成 </description>
+      <description></description>
     </item>
     
     <item>
@@ -27,8 +26,7 @@
       <pubDate>Sat, 04 Jan 2020 13:50:37 +0900</pubDate>
       
       <guid>https://progforone.netlify.com/post/2020/01/04/vba/</guid>
-      <description> ★文章を入れる★
-   aaa bbb ccc ddd  更新履歴 2020.01.04 新規作成 </description>
+      <description></description>
     </item>
     
     <item>
@@ -37,12 +35,7 @@
       <pubDate>Fri, 03 Jan 2020 18:07:04 +0900</pubDate>
       
       <guid>https://progforone.netlify.com/post/2020/01/03/vba/</guid>
-      <description> Excel VBAで最終行、最終列を取得する方法をすぐに忘れてしまうんだよね…。
-   どう書こう？ プログラムコード   どう書こう？ Exel VBAで最終行、最終列を取得する方法です。
-範囲指定で1行目～セルの値のある最終行まで指定したい場合などに使用します。
-僕もよく忘れるので、記事にしました。
-プログラムコード コードは以下のとおりです。
- ・A列の最終行を取得する。 MaxRow = Cells(Rows.Count, 1).End(xlUp).Row ・1行目の最終列を取得する。 MaxCol = Cells(1, Columns.Count).End(xlToLeft).Column   更新履歴 2020.01.03 新規作成 </description>
+      <description></description>
     </item>
     
   </channel>
