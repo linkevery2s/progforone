@@ -10,8 +10,8 @@
  content: "[★文章を入れる★ aaa bbb ccc ddd 更新履歴 2020.01.05 新規作成]"
  }
  ,{
- url: "https://progforone.netlify.com/post/2020/01/04/excel/",
- title: "Excel",
+ url: "https://progforone.netlify.com/post/2020/01/04/vba/",
+ title: "開いているExcelファイルと同じパスを取得する。",
  content: "[★文章を入れる★ aaa bbb ccc ddd 更新履歴 2020.01.04 新規作成]"
  }
  ,{
