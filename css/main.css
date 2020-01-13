@@ -17,6 +17,7 @@ ul.m li {
   border-bottom: dashed 1px silver;
   list-style-type: none!important;
 }
+
 ul.m li:last-of-type {
   border-bottom: none;
 }
@@ -110,7 +111,7 @@ ul.up li {
 hr {
 	border-top: 1px dashed #8c8b8b;
 	border-bottom: 1px dashed #fff;
-	padding: 10px 0 10px 0;
+	padding: 5px 0 5px 0;
 }
 
 /* 上へスクロールボタン */
