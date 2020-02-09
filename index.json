@@ -5,9 +5,14 @@
  content: "[]"
  }
  ,{
+ url: "https://progforone.netlify.com/post/2020/01/06/html/",
+ title: "Twitter cardの記入方法",
+ content: "[TwitterにURLを入れて、ツイートする時に、画像や文章を挿入したい。 Twitter Cardの挿入方法 更新履歴 Twitter Cardの挿入方法 挿入方法は、以下のとおりです。 [head][/head]の中に以下のように記述する。 [meta name="twitter:card" content="summary_large_image"] [meta name="twitter:title" content="サイトのタイトル" /] [meta name="twitter:description" content="サイトの説明" /] [meta name="twitter:image" content="URL" /] [meta name="author" content="開発者の指名"] [meta name="keywords" content="SEO対策のためのキーワードを記入"] ※[]はに変換してください。 正しく反映されたかどうかは、バリデーターでチェックできる。 更新履歴 2020.01.06 新規作成]"
+ }
+ ,{
  url: "https://progforone.netlify.com/post/2020/01/05/css/",
- title: "デザインあれこれ",
- content: "[★文章を入れる★ aaa bbb ccc ddd 更新履歴 2020.01.05 新規作成]"
+ title: "classとidの話",
+ content: "[classとidを使い分けしたい。 使いこなそう 内部リンクはidで 更新履歴 使いこなそう htmlのdiv要素などにclassを指定した場合、cssは「.クラス名」となります。 idを指定した場合、cssは「#id名」となります。 内部リンクはidで ハッシュタグ（#）を用いた内部リンクにする場合、div要素には、idを用います。classは指定できません。 更新履歴 2020.01.05 新規作成]"
  }
  ,{
  url: "https://progforone.netlify.com/post/2020/01/04/vba/",

@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        <meta property="og:title" content="デザインあれこれ" />
+        <meta property="og:title" content="classとidの話" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://progforone.netlify.com/post/2020/01/05/css/" />
@@ -12,13 +12,12 @@
 <meta property="article:modified_time" content="2020-01-05T13:44:06+09:00" />
 
         <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="デザインあれこれ"/>
+<meta name="twitter:title" content="classとidの話"/>
 <meta name="twitter:description" content=""/>
-<meta name="twitter:site" content="@luffy2sL"/>
 
         
         <title>
-  デザインあれこれ | ProgForOne
+  classとidの話 | ProgForOne
 </title>
 
         <link rel="icon" type="image/png" href='https://progforone.netlify.com/images/favicon-16x16.png' sizes="16x16">
@@ -36,8 +35,7 @@
         <link rel="stylesheet" href="https://progforone.netlify.com/css/bundle.min.f9c5e447e509e6ff08e8d5689b08b1b73deceb222507c558070c2222eab25a26.css" integrity="sha256-&#43;cXkR&#43;UJ5v8I6NVomwixtz3s6yIlB8VYBwwiIuqyWiY="  />
 
         
-    <link rel="me" type="text/html" href="https://twitter.com/luffy2sL"/> 
-<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
 
 <link rel="alternate" type="application/rss+xml" href='https://progforone.netlify.com/index.xml' />
@@ -79,8 +77,7 @@
 </li>
                     </ul>
                     <div class="social-icons d-none d-lg-block">
-                        <a class="py-2 px-2" href="https://twitter.com/luffy2sL"><i class="fab fa-twitter"></i></a>
-<a class="py-2 px-2" href='https://progforone.netlify.com/index.xml'><i class="fas fa-rss"></i></a>
+                        <a class="py-2 px-2" href='https://progforone.netlify.com/index.xml'><i class="fas fa-rss"></i></a>
 
                     </div>
                 </div>
@@ -95,7 +92,7 @@
         <div class="main">
             
 <div class="container mt-4 post">
-    <h1>デザインあれこれ</h1>
+    <h1>classとidの話</h1>
     <div class="mb-3">
     <small>
         <strong>hitoshi</strong>
@@ -118,17 +115,25 @@
   </div>
   <div class="chatting">
     <div class="says">
-      <p>★文章を入れる★</p>
+      <p>classとidを使い分けしたい。</p>
     </div>
   </div>
 </div>
 <ul class="m">
-  <li>aaa</li>
-  <li>bbb</li>
-  <li>ccc</li>
-  <li>ddd</li>
+  <li><a href="#moku1">使いこなそう</a></li>
+  <li><a href="#moku2">内部リンクはidで</a></li>
+  <li><a href="#moku3">更新履歴</a></li>
 </ul>
-<ul class="up">
+<hr>
+<h2 class ="des1" id ="moku1">使いこなそう</h2>
+htmlのdiv要素などにclassを指定した場合、cssは「.クラス名」となります。
+idを指定した場合、cssは「#id名」となります。
+<br><br>
+<h2 class ="des1" id ="moku1">内部リンクはidで</h2>
+ハッシュタグ（#）を用いた内部リンクにする場合、div要素には、idを用います。classは指定できません。
+<p><br><br></p>
+<hr>
+<ul class="up" id ="moku3">
 更新履歴
   <li>2020.01.05 新規作成</li>
 </ul>
@@ -151,7 +156,9 @@
     <h2 class="mt-4">Recent Posts</h2>
     <nav class="nav flex-column">
         
-        <a href="https://progforone.netlify.com/post/2020/01/05/css/" class="nav-link">デザインあれこれ</a>
+        <a href="https://progforone.netlify.com/post/2020/01/06/html/" class="nav-link">Twitter cardの記入方法</a>
+        
+        <a href="https://progforone.netlify.com/post/2020/01/05/css/" class="nav-link">classとidの話</a>
         
         <a href="https://progforone.netlify.com/post/2020/01/04/vba/" class="nav-link">開いているExcelファイルと同じパスを取得する。</a>
         
@@ -164,7 +171,7 @@
         
         <a href='https://progforone.netlify.com/archives/2020%E5%B9%B41%E6%9C%88/' class="nav-link">
         2020年1月
-        <span class="badge badge-pill badge-secondary">3</span>
+        <span class="badge badge-pill badge-secondary">4</span>
         </a>
         
     </nav>
@@ -179,6 +186,11 @@
         
         <a href='https://progforone.netlify.com/categories/css/' class="nav-link">
         css
+        <span class="badge badge-pill badge-secondary">1</span>
+        </a>
+        
+        <a href='https://progforone.netlify.com/categories/html/' class="nav-link">
+        html
         <span class="badge badge-pill badge-secondary">1</span>
         </a>
         
@@ -217,8 +229,7 @@ This blog was created using the <a href="https://gohugo.io/">Hugo</a> static sit
                 <hr />
 
                 <div class="d-flex justify-content-center icons">
-                    <a class="py-2 px-2" href="https://twitter.com/luffy2sL"><i class="fab fa-twitter"></i></a>
-<a class="py-2 px-2" href='https://progforone.netlify.com/index.xml'><i class="fas fa-rss"></i></a>
+                    <a class="py-2 px-2" href='https://progforone.netlify.com/index.xml'><i class="fas fa-rss"></i></a>
 
                 </div>
             </div>
