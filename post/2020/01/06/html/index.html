@@ -127,15 +127,16 @@
 <h2 class ="des1" id ="moku1">Twitter Cardの挿入方法</h2>
 <p>挿入方法は、以下のとおりです。</p>
 <pre>
-[head][/head]の中に以下のように記述する。
-    [meta name="twitter:card" content="summary_large_image"]
-	[meta name="twitter:title" content="サイトのタイトル" /]
-	[meta name="twitter:description" content="サイトの説明" /]
-	[meta name="twitter:image" content="URL" /]
-    [meta name="author" content="開発者の指名"]
-	[meta name="keywords" content="SEO対策のためのキーワードを記入"]
+&lt;head&gt;&lt;/head&gt;の中に以下のように記述する。
 
-※[]は<>に変換してください。
+  &lt;meta name="twitter:card" content="summary_large_image"&gt;
+  &lt;meta name="twitter:title" content="サイトのタイトル" /&gt;
+  &lt;meta name="twitter:description" content="サイトの説明" /&gt;
+  &lt;meta name="twitter:image" content="URL" /&gt;
+  &lt;meta name="author" content="開発者の指名"&gt;
+  &lt;meta name="keywords" content="SEO対策のためのキーワードを記入"&gt;
+
+
 </pre>
 <br>
 正しく反映されたかどうかは、<a href="https://cards-dev.twitter.com/validator">バリデーター</a>でチェックできる。
@@ -211,6 +212,9 @@
     addthis_config.data_track_addressbar = false;
     addthis_config.data_track_clickback = false;
 </script>
+
+
+
 
         </div>
 

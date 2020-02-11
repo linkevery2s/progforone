@@ -7,7 +7,7 @@
  ,{
  url: "https://progforone.netlify.com/post/2020/01/06/html/",
  title: "Twitter cardの記入方法",
- content: "[TwitterにURLを入れて、ツイートする時に、画像や文章を挿入したい。 Twitter Cardの挿入方法 更新履歴 Twitter Cardの挿入方法 挿入方法は、以下のとおりです。 [head][/head]の中に以下のように記述する。 [meta name="twitter:card" content="summary_large_image"] [meta name="twitter:title" content="サイトのタイトル" /] [meta name="twitter:description" content="サイトの説明" /] [meta name="twitter:image" content="URL" /] [meta name="author" content="開発者の指名"] [meta name="keywords" content="SEO対策のためのキーワードを記入"] ※[]はに変換してください。 正しく反映されたかどうかは、バリデーターでチェックできる。 更新履歴 2020.01.06 新規作成]"
+ content: "[TwitterにURLを入れて、ツイートする時に、画像や文章を挿入したい。 Twitter Cardの挿入方法 更新履歴 Twitter Cardの挿入方法 挿入方法は、以下のとおりです。 &lt;head&gt;&lt;/head&gt;の中に以下のように記述する。 &lt;meta name="twitter:card" content="summary_large_image"&gt; &lt;meta name="twitter:title" content="サイトのタイトル" /&gt; &lt;meta name="twitter:description" content="サイトの説明" /&gt; &lt;meta name="twitter:image" content="URL" /&gt; &lt;meta name="author" content="開発者の指名"&gt; &lt;meta name="keywords" content="SEO対策のためのキーワードを記入"&gt; 正しく反映されたかどうかは、バリデーターでチェックできる。 更新履歴 2020.01.06 新規作成]"
  }
  ,{
  url: "https://progforone.netlify.com/post/2020/01/05/css/",
