@@ -1,13 +1,13 @@
  var data = [
  {
- url: "https://progforone.netlify.com/post/2020/03/08/css/",
- title: "Css",
- content: "[★文章を入れる★ aaa bbb ccc ddd 更新履歴 2020.01.03 新規作成]"
- }
- ,{
  url: "https://progforone.netlify.com/post/",
  title: "Posts",
  content: "[]"
+ }
+ ,{
+ url: "https://progforone.netlify.com/post/2020/03/08/css/",
+ title: "フォントの指定方法",
+ content: "[CSSではフォントのサイズや色など、様々な指定方法があるよ。 どう書こう？ 更新履歴 どう書こう？ 色の指定 font-color: #fff; /* 白色にする */ 太字にする font-weight: bold 更新履歴 2020.03.08 新規作成]"
  }
  ,{
  url: "https://progforone.netlify.com/post/2020/01/06/html/",
