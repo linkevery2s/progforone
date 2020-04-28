@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ProgForOne</title>
-    <link>https://progforone.netlify.com/post/</link>
+    <link>https://progforone.netlify.app/post/</link>
     <description>Recent content in Posts on ProgForOne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 08 Mar 2020 21:10:39 +0900</lastBuildDate>
     
-	<atom:link href="https://progforone.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://progforone.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>フォントの指定方法</title>
-      <link>https://progforone.netlify.com/post/2020/03/08/css/</link>
+      <link>https://progforone.netlify.app/post/2020/03/08/css/</link>
       <pubDate>Sun, 08 Mar 2020 21:10:39 +0900</pubDate>
       
-      <guid>https://progforone.netlify.com/post/2020/03/08/css/</guid>
+      <guid>https://progforone.netlify.app/post/2020/03/08/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Twitter cardの記入方法</title>
-      <link>https://progforone.netlify.com/post/2020/01/06/html/</link>
+      <link>https://progforone.netlify.app/post/2020/01/06/html/</link>
       <pubDate>Sun, 09 Feb 2020 13:28:21 +0900</pubDate>
       
-      <guid>https://progforone.netlify.com/post/2020/01/06/html/</guid>
+      <guid>https://progforone.netlify.app/post/2020/01/06/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>classとidの話</title>
-      <link>https://progforone.netlify.com/post/2020/01/05/css/</link>
+      <link>https://progforone.netlify.app/post/2020/01/05/css/</link>
       <pubDate>Sun, 05 Jan 2020 13:44:06 +0900</pubDate>
       
-      <guid>https://progforone.netlify.com/post/2020/01/05/css/</guid>
+      <guid>https://progforone.netlify.app/post/2020/01/05/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>開いているExcelファイルと同じパスを取得する。</title>
-      <link>https://progforone.netlify.com/post/2020/01/04/vba/</link>
+      <link>https://progforone.netlify.app/post/2020/01/04/vba/</link>
       <pubDate>Sat, 04 Jan 2020 13:50:37 +0900</pubDate>
       
-      <guid>https://progforone.netlify.com/post/2020/01/04/vba/</guid>
+      <guid>https://progforone.netlify.app/post/2020/01/04/vba/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Excel VBAで最終行、最終列を取得する。</title>
-      <link>https://progforone.netlify.com/post/2020/01/03/vba/</link>
+      <link>https://progforone.netlify.app/post/2020/01/03/vba/</link>
       <pubDate>Fri, 03 Jan 2020 18:07:04 +0900</pubDate>
       
-      <guid>https://progforone.netlify.com/post/2020/01/03/vba/</guid>
+      <guid>https://progforone.netlify.app/post/2020/01/03/vba/</guid>
       <description></description>
     </item>
     
