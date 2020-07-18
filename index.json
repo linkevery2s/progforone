@@ -5,6 +5,11 @@
  content: "[]"
  }
  ,{
+ url: "https://progforone.netlify.app/post/2020/07/18/vba/",
+ title: "ハイパーリンクを一括で有効にする",
+ content: "[ハイパーリンクを有効にするには、どうしたら良いんだろう？ どう書こう？ プログラムコード どう書こう？ Exel VBAでハイパーリンクを有効にする方法です。 列ごとに一括で有効にできます。 プログラムコード コードは以下のとおりです。 &#39;A列の最終行を取得する。 Dim i As Long With ActiveSheet.Hyperlinks For i = 1 To 500 .Add Anchor:=Cells(i, 5), Address:=Cells(i, 5).Value Next i End With 更新履歴 2020.07.18 新規作成]"
+ }
+ ,{
  url: "https://progforone.netlify.app/post/2020/03/08/css/",
  title: "フォントの指定方法",
  content: "[CSSではフォントのサイズや色など、様々な指定方法があるよ。 どう書こう？ 更新履歴 どう書こう？ 色の指定 font-color: #fff; /* 白色にする */ 太字にする font-weight: bold; 更新履歴 2020.03.08 新規作成]"

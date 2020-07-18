@@ -6,10 +6,19 @@
     <description>Recent content in Archives on ProgForOne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Mar 2020 21:10:39 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 20:25:00 +0900</lastBuildDate>
     
 	<atom:link href="https://progforone.netlify.app/archives/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020年7月</title>
+      <link>https://progforone.netlify.app/archives/2020%E5%B9%B47%E6%9C%88/</link>
+      <pubDate>Sat, 18 Jul 2020 20:25:00 +0900</pubDate>
+      
+      <guid>https://progforone.netlify.app/archives/2020%E5%B9%B47%E6%9C%88/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2020年3月</title>

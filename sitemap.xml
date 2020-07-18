@@ -3,32 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://progforone.netlify.app/archives/2020%E5%B9%B47%E6%9C%88/</loc>
+    <lastmod>2020-07-18T20:25:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://progforone.netlify.app/archives/</loc>
+    <lastmod>2020-07-18T20:25:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://progforone.netlify.app/categories/</loc>
+    <lastmod>2020-07-18T20:25:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://progforone.netlify.app/post/</loc>
+    <lastmod>2020-07-18T20:25:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://progforone.netlify.app/</loc>
+    <lastmod>2020-07-18T20:25:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://progforone.netlify.app/categories/vba/</loc>
+    <lastmod>2020-07-18T20:25:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://progforone.netlify.app/post/2020/07/18/vba/</loc>
+    <lastmod>2020-07-18T20:25:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://progforone.netlify.app/archives/2020%E5%B9%B43%E6%9C%88/</loc>
     <lastmod>2020-03-08T21:10:39+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://progforone.netlify.app/archives/</loc>
-    <lastmod>2020-03-08T21:10:39+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://progforone.netlify.app/categories/</loc>
-    <lastmod>2020-03-08T21:10:39+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://progforone.netlify.app/categories/css/</loc>
-    <lastmod>2020-03-08T21:10:39+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://progforone.netlify.app/post/</loc>
-    <lastmod>2020-03-08T21:10:39+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://progforone.netlify.app/</loc>
     <lastmod>2020-03-08T21:10:39+09:00</lastmod>
   </url>
   
@@ -65,11 +80,6 @@
   <url>
     <loc>https://progforone.netlify.app/search/</loc>
     <lastmod>2020-01-05T13:20:31+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://progforone.netlify.app/categories/vba/</loc>
-    <lastmod>2020-01-04T13:50:37+09:00</lastmod>
   </url>
   
   <url>
