@@ -6,10 +6,19 @@
     <description>Recent content on ProgForOne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2020 20:25:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 20:46:00 +0900</lastBuildDate>
     
 	<atom:link href="https://progforone.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>leaflet初期設定方法</title>
+      <link>https://progforone.netlify.app/post/2020/07/19/leaflet/</link>
+      <pubDate>Sun, 19 Jul 2020 20:46:00 +0900</pubDate>
+      
+      <guid>https://progforone.netlify.app/post/2020/07/19/leaflet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ハイパーリンクを一括で有効にする</title>

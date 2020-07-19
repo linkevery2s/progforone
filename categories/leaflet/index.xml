@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>leaflet on ProgForOne</title>
-    <link>https://progforone.netlify.com/categories/leaflet/</link>
+    <link>https://progforone.netlify.app/categories/leaflet/</link>
     <description>Recent content in leaflet on ProgForOne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Mar 2020 21:10:39 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 20:46:00 +0900</lastBuildDate>
     
-	<atom:link href="https://progforone.netlify.com/categories/leaflet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://progforone.netlify.app/categories/leaflet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Css</title>
-      <link>https://progforone.netlify.com/post/2020/03/08/css/</link>
-      <pubDate>Sun, 08 Mar 2020 21:10:39 +0900</pubDate>
+      <title>leaflet初期設定方法</title>
+      <link>https://progforone.netlify.app/post/2020/07/19/leaflet/</link>
+      <pubDate>Sun, 19 Jul 2020 20:46:00 +0900</pubDate>
       
-      <guid>https://progforone.netlify.com/post/2020/03/08/css/</guid>
+      <guid>https://progforone.netlify.app/post/2020/07/19/leaflet/</guid>
       <description></description>
     </item>
     

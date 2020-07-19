@@ -1,5 +1,10 @@
  var data = [
  {
+ url: "https://progforone.netlify.app/post/2020/07/19/leaflet/",
+ title: "leaflet初期設定方法",
+ content: "[地図を表示するのに便利なAPI「leaflet」の初期設定方法とは？ どう書こう？ プログラムコード どう書こう？ 地図を扱うAPIで利用が広がっているleaflet。ここでは、初期設定の記述方法をご紹介します。 どう書こう？ プログラムコードは以下のとおりです。 &lt;!DOCTYPE html&gt; &lt;html lang=&#39;ja&#39;&gt; &lt;head&gt; &lt;meta charset=&#39;UTF-8&#39; name=&#39;viewport&#39; content=&#39;width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no&#39;&gt; &lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/leaflet@1.6.0/dist/leaflet.css&#34; /&gt; &lt;script src=&#34;https://unpkg.com/leaflet@1.6.0/dist/leaflet.js&#34;&gt;&lt;/script&gt; &lt;style&gt; html,body,#map{ margin: 0; padding: 0; width: 100%; height: 100%; } &lt;/style&gt; &lt;script&gt; function ini(){ var map = L.map(&#39;map&#39;); L.tileLayer(&#39;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#39;, { attribution: &#39;&amp;copy; &lt;a href=&#34;https://www.openstreetmap.org/copyright&#34;&gt;OpenStreetMap&lt;/a&gt; contributors&#39; }).addTo(map); map.setView([37.3, 137.8], 5) } &lt;/script&gt; &lt;title&gt;leaflet初期設定方法&lt;/title&gt; &lt;/head&gt; &lt;body onLoad=&#39;ini()&#39;&gt; &lt;div id=&#39;map&#39;&gt;&lt;/div&gt; &lt;/body&gt; &lt;/html&gt; 更新履歴 2020.07.19 新規作成]"
+ }
+ ,{
  url: "https://progforone.netlify.app/post/",
  title: "Posts",
  content: "[]"
