@@ -66,16 +66,6 @@
     </item>
     
     <item>
-      <title>Search</title>
-      <link>https://progforone.netlify.app/search/</link>
-      <pubDate>Sun, 05 Jan 2020 13:20:31 +0900</pubDate>
-      
-      <guid>https://progforone.netlify.app/search/</guid>
-      <description>キーワードを入力するとリアルタイムで検索することができます。
-   </description>
-    </item>
-    
-    <item>
       <title>開いているExcelファイルと同じパスを取得する。</title>
       <link>https://progforone.netlify.app/post/2/</link>
       <pubDate>Sat, 04 Jan 2020 13:50:37 +0900</pubDate>
